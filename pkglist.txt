@@ -8,7 +8,10 @@ RGB#2169 : my discord username
 
 pkg list format below
 
-pkgname@version:disc:dateadded
+pkgname@version:disc:dateadded 
+
+
+**Note: Windows XP / 2000 Wallpaper Pack Soon 
 
 ==============================================================================================================================
 
