@@ -1,0 +1,15 @@
+welcome to redpkgs package list
+
+To find pkgs, press ctrl-f on Firefox / Chrome and then put the pkg name your looking for
+
+devs, if you would like to put your w96 pkgs on redpkg please contact me on discord and give the github page for your pkgs
+ 
+RGB#2169 : my discord username
+
+pkg list format below
+
+pkgname@version:disc:dateadded
+
+==============================================================================================================================
+
+pkg list
