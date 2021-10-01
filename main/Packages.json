@@ -1,5 +1,4 @@
-[
- 
+[ 
     {
         "name": "web-border",
         "friendlyName": "Border",
@@ -16,5 +15,23 @@
             "16x16": "$REPO_PATH$/dist/web-border/icon16.png"
         },
         "packageRoot": "$REPO_PATH$/dist/web-border/"
+    },
+ 
+ {
+        "name": "winxp-wallpaper-pck",
+        "friendlyName": "Windows XP / 2000 HD Wallpaper Pack",
+        "description": "hd winxp wallpaper pack",
+        "author": "redpkg team",
+        "category": "other",
+        "version": 1.0,
+        "feature_requirements": [],
+        "min_os_version": 2.2776,
+        "max_os_version": 9999,
+        "depends": [],
+        "iconFiles": {
+            "32x32": "$REPO_PATH$/dist/XP2000wallpaperpck/icon32.png",
+            "16x16": "$REPO_PATH$/dist/XP2000wallpaperpck/icon16.png"
+        },
+        "packageRoot": "$REPO_PATH$/dist/XP2000wallpaperpck/"
     }
 ]

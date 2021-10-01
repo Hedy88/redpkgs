@@ -1,0 +1,15 @@
+{
+    "sources": [
+        "https://packages.windows96.net/main",
+        "https://packages.windows96.net/community",
+        "https://nandertga.ddns.net/w96-packages",
+        "https://billygoat891.github.io/w96/repo",
+        "https://sgeo.github.io/win96-repos/apps",
+        "https://sgeo.github.io/win96-repos/malware",
+        "https://jameisepic.github.io/thinkjame/public/main",
+        "https://w96.stilic.ynh.fr/main",
+        "https://onofficiel.github.io/w96",
+        "https://packages.ctrl.wtf/main"
+    ],
+    "updateFrequency": 2
+}
