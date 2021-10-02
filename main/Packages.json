@@ -33,22 +33,5 @@
             "16x16": "$REPO_PATH$/dist/xp-wallpaper-pack/icon16.png"
         },
         "packageRoot": "$REPO_PATH$/dist/xp-wallpaper-pack/"
-     },
- 
-     {
-        "name": "fart-js",
-        "friendlyName": "fart.js",
-        "description": "fart.js for windows 96",
-        "author": "redpkg team | fart.js",
-        "category": "other",
-        "version": 1.0,
-        "feature_requirements": [],
-        "min_os_version": 2.2776,
-        "max_os_version": 9999,
-        "depends": [libjquery],
-        "iconFiles": {
-            "32x32": "$REPO_PATH$/dist/fart-js/icon32.png",
-        },
-        "packageRoot": "$REPO_PATH$/dist/fart-js/"
      }
 ]
