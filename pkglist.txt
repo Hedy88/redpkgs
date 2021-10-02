@@ -10,6 +10,12 @@ pkg list format below
 
 pkgname@version:disc:dateadded
 
+Border 1.2 Soon | only on woobaz and redpkg repos
+
 ==============================================================================================================================
 
 pkg list
+
+web-border@1.2:modern web browser:01/10/21 
+
+winxp-wallpaper-pck@1.0:Windows XP / 2000 HD Wallpaper Pack:02/10/21
