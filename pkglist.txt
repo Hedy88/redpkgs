@@ -8,13 +8,8 @@ RGB#2169 : my discord username
 
 pkg list format below
 
-pkgname@version:disc:dateadded 
-
+pkgname@version:disc:dateadded
 
 ==============================================================================================================================
 
 pkg list
-
-web-border@1.2:webbrowser:01/10/21
-
-winxp-wallpaper-pck@1.0:Windows XP / 2000 Wallpaper Pack for Windows 96:02/10/21
